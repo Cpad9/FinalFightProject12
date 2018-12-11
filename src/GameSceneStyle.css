@@ -1,0 +1,71 @@
+/*Chris Padgett*/
+/*Last edited: 11-17-18*/
+
+
+
+
+.textarea{
+  -fx-border: none;
+  -fx-border-style:none;
+  -fx-border-color:Transparent;
+}
+
+.button{
+  -fx-box-shadow: 3px 3px 0px 0px;
+  -fx-padding: 5px 10px;
+  -fx-font-weight:bold;
+  -fx-font-size: 24px;
+  -fx-background-radius: 10%;
+  -fx-cursor: pointer;
+  -fx-text-align: center;
+  -fx-text-decoration: bold;
+  -fx-outline: none;
+  -fx-background-color: transparent;
+  -fx-border-color:white;
+  -fx-background-radius: 15px;
+  -fx-border-radius: 15px;
+  -fx-box-shadow: 5px 10px;
+  -fx-box-shadow-color: grey;
+  -fx-transition: all ease-in-out 600ms;
+}
+
+.button:hover{
+ -fx-background-color: darkred;
+  -fx-text-fill:white;
+}
+
+.button:pressed{
+  -fx-text-fill:white;
+  -fx-background-color: darkred;
+  -fx-box-shadow: 5px 10px;
+  -fx-box-shadow-color: grey;
+  -fx-translate-y: 4px;
+}
+.textarea{
+  -fx-border-color:grey;
+  -fx-background-color: red;
+  -fx-text-alignment: center;
+}
+.text-field{
+  -fx-border-color:black;
+}
+
+#HeroCreationPane{
+  -fx-border-color:darkgrey;
+  -fx-background-color:lightgrey;
+
+}
+
+.grid{
+  -fx-padding: 10px 5px;
+  -fx-border-color:darkgrey;
+  -fx-background-color: lightgrey;
+}
+
+
+#lockNameButton{
+  -fx-padding:5px 5px;
+}
+
+#rogueButton{
+}
