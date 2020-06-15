@@ -8,6 +8,8 @@ an array of user defined size of other Players. You have a selection of two
 different attacks. You fight your way through enemies and after each fight you gain 100 health.
 If you get to the end your name and final health are uploaded to a database
 
+The Hero select is provided by a GUI but the fights all happen inside of the console. Good luck!
+
 
 ## Creating Hero
 When Creating a hero you type in his name and pick a speciality(Wizard,Warrior,Rogue).
